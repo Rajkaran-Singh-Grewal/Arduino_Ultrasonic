@@ -1,0 +1,4959 @@
+{
+  "189": {
+    "analog": [
+      7.23
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:59.271781",
+    "End Timing": "10:12:59.271781"
+  },
+  "331": {
+    "analog": [
+      9.68
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:26.255405",
+    "End Timing": "10:13:26.255405"
+  },
+  "210": {
+    "analog": [
+      3.58
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:03.330119",
+    "End Timing": "10:13:03.330119"
+  },
+  "33": {
+    "analog": [
+      4.47
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:34.871659",
+    "End Timing": "10:12:34.871659"
+  },
+  "455": {
+    "analog": [
+      5.99
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:00.370571",
+    "End Timing": "10:14:00.370571"
+  },
+  "224": {
+    "analog": [
+      8.05
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:05.152280",
+    "End Timing": "10:13:05.152280"
+  },
+  "271": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:12.656416",
+    "End Timing": "10:13:12.656416"
+  },
+  "60": {
+    "analog": [
+      4.47
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:39.664604",
+    "End Timing": "10:12:39.664604"
+  },
+  "461": {
+    "analog": [
+      3.27
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:01.095259",
+    "End Timing": "10:14:01.095259"
+  },
+  "234": {
+    "analog": [
+      1.5,
+      1.83
+    ],
+    "classify": 1,
+    "Start Timing": "10:13:06.205523",
+    "End Timing": "10:13:06.271018"
+  },
+  "260": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:10.903482",
+    "End Timing": "10:13:10.903482"
+  },
+  "495": {
+    "analog": [
+      4.01
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:12.432042",
+    "End Timing": "10:14:12.432042"
+  },
+  "312": {
+    "analog": [
+      3.6
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:21.810503",
+    "End Timing": "10:13:21.810503"
+  },
+  "29": {
+    "analog": [
+      3.37
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:33.721434",
+    "End Timing": "10:12:33.721434"
+  },
+  "76": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:42.510108",
+    "End Timing": "10:12:42.510108"
+  },
+  "527": {
+    "analog": [
+      4.4
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:28.292334",
+    "End Timing": "10:14:28.292334"
+  },
+  "125": {
+    "analog": [
+      7.4
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:50.087998",
+    "End Timing": "10:12:50.087998"
+  },
+  "56": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:39.069875",
+    "End Timing": "10:12:39.069875"
+  },
+  "126": {
+    "analog": [
+      5.59,
+      5.23
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:50.215001",
+    "End Timing": "10:12:50.321754"
+  },
+  "128": {
+    "analog": [
+      1.7
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:50.497993",
+    "End Timing": "10:12:50.497993"
+  },
+  "313": {
+    "analog": [
+      4.07
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:21.897067",
+    "End Timing": "10:13:21.897067"
+  },
+  "65": {
+    "analog": [
+      4.36
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:40.740787",
+    "End Timing": "10:12:40.740787"
+  },
+  "172": {
+    "analog": [
+      1.72
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:56.387520",
+    "End Timing": "10:12:56.387520"
+  },
+  "79": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:43.141086",
+    "End Timing": "10:12:43.141086"
+  },
+  "404": {
+    "analog": [
+      5.75
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:46.153583",
+    "End Timing": "10:13:46.153583"
+  },
+  "477": {
+    "analog": [
+      5.44
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:07.394697",
+    "End Timing": "10:14:07.394697"
+  },
+  "165": {
+    "analog": [
+      1.35
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:55.486558",
+    "End Timing": "10:12:55.486558"
+  },
+  "38": {
+    "analog": [
+      5.35
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:35.653644",
+    "End Timing": "10:12:35.653644"
+  },
+  "368": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:36.462381",
+    "End Timing": "10:13:37.428599"
+  },
+  "78": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:42.818118",
+    "End Timing": "10:12:42.818118"
+  },
+  "449": {
+    "analog": [
+      2.99
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:59.477573",
+    "End Timing": "10:13:59.477573"
+  },
+  "57": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:39.397888",
+    "End Timing": "10:12:39.397888"
+  },
+  "99": {
+    "analog": [
+      6.06
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:45.816317",
+    "End Timing": "10:12:45.816317"
+  },
+  "32": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:34.298113",
+    "End Timing": "10:12:34.724905"
+  },
+  "139": {
+    "analog": [
+      2.34,
+      2.97
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:51.885844",
+    "End Timing": "10:12:51.960124"
+  },
+  "339": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:28.254097",
+    "End Timing": "10:13:28.254097"
+  },
+  "11": {
+    "analog": [
+      6.35
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:29.010496",
+    "End Timing": "10:12:29.010496"
+  },
+  "319": {
+    "analog": [
+      9.53
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:23.555486",
+    "End Timing": "10:13:23.555486"
+  },
+  "259": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:10.751718",
+    "End Timing": "10:13:10.751718"
+  },
+  "62": {
+    "analog": [
+      7.61
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:40.188147",
+    "End Timing": "10:12:40.188147"
+  },
+  "27": {
+    "analog": [
+      3.89
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:33.208959",
+    "End Timing": "10:12:33.208959"
+  },
+  "204": {
+    "analog": [
+      4.22
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:02.036131",
+    "End Timing": "10:13:02.036131"
+  },
+  "1": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:26.183992",
+    "End Timing": "10:12:26.183992"
+  },
+  "453": {
+    "analog": [
+      5.21
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:59.841816",
+    "End Timing": "10:13:59.841816"
+  },
+  "345": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:29.282616",
+    "End Timing": "10:13:29.708096"
+  },
+  "2": {
+    "analog": [
+      4.23
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:26.335553",
+    "End Timing": "10:12:26.335553"
+  },
+  "558": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:38.044695",
+    "End Timing": "10:14:38.470190"
+  },
+  "226": {
+    "analog": [
+      4.16
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:05.435786",
+    "End Timing": "10:13:05.435786"
+  },
+  "493": {
+    "analog": [
+      3.88
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:11.916918",
+    "End Timing": "10:14:11.916918"
+  },
+  "241": {
+    "analog": [
+      3.14,
+      3.25
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:08.172010",
+    "End Timing": "10:13:08.253949"
+  },
+  "247": {
+    "analog": [
+      7.42
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:09.220007",
+    "End Timing": "10:13:09.220007"
+  },
+  "157": {
+    "analog": [
+      3.4
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:54.142804",
+    "End Timing": "10:12:54.142804"
+  },
+  "219": {
+    "analog": [
+      8.23
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:04.656956",
+    "End Timing": "10:13:04.656956"
+  },
+  "88": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:44.071373",
+    "End Timing": "10:12:44.071373"
+  },
+  "161": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:54.773803",
+    "End Timing": "10:12:54.773803"
+  },
+  "80": {
+    "analog": [
+      1.68
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:43.292890",
+    "End Timing": "10:12:43.292890"
+  },
+  "436": {
+    "analog": [
+      1.68
+    ],
+    "classify": 1,
+    "Start Timing": "10:13:56.045117",
+    "End Timing": "10:13:56.045117"
+  },
+  "110": {
+    "analog": [
+      4.77,
+      4.87
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:48.240697",
+    "End Timing": "10:12:48.338690"
+  },
+  "104": {
+    "analog": [
+      3.8
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:46.246571",
+    "End Timing": "10:12:46.246571"
+  },
+  "540": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:32.711254",
+    "End Timing": "10:14:32.711254"
+  },
+  "548": {
+    "analog": [
+      3.48
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:35.029541",
+    "End Timing": "10:14:35.029541"
+  },
+  "483": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:08.729632",
+    "End Timing": "10:14:09.151246"
+  },
+  "205": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:02.409117",
+    "End Timing": "10:13:02.409117"
+  },
+  "440": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:57.519545",
+    "End Timing": "10:13:57.519545"
+  },
+  "37": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:35.503163",
+    "End Timing": "10:12:35.503163"
+  },
+  "508": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:17.262356",
+    "End Timing": "10:14:17.688071"
+  },
+  "485": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:09.655112",
+    "End Timing": "10:14:09.655112"
+  },
+  "372": {
+    "analog": [
+      9.89
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:38.772103",
+    "End Timing": "10:13:38.772103"
+  },
+  "549": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:35.386511",
+    "End Timing": "10:14:35.386511"
+  },
+  "122": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:49.896025",
+    "End Timing": "10:12:49.896025"
+  },
+  "374": {
+    "analog": [
+      7.12
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:39.349590",
+    "End Timing": "10:13:39.349590"
+  },
+  "12": {
+    "analog": [
+      7.99
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:29.124628",
+    "End Timing": "10:12:29.124628"
+  },
+  "228": {
+    "analog": [
+      2.4
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:05.612031",
+    "End Timing": "10:13:05.612031"
+  },
+  "396": {
+    "analog": [
+      8.01
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:45.226810",
+    "End Timing": "10:13:45.226810"
+  },
+  "389": {
+    "analog": [
+      4.6
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:43.658574",
+    "End Timing": "10:13:43.658574"
+  },
+  "83": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:43.592617",
+    "End Timing": "10:12:43.592617"
+  },
+  "521": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:25.847238",
+    "End Timing": "10:14:26.559575"
+  },
+  "133": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:51.194088",
+    "End Timing": "10:12:51.194088"
+  },
+  "67": {
+    "analog": [
+      6.12
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:40.884341",
+    "End Timing": "10:12:40.884341"
+  },
+  "282": {
+    "analog": [
+      5.69
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:14.217209",
+    "End Timing": "10:13:14.217209"
+  },
+  "66": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:40.835164",
+    "End Timing": "10:12:40.835164"
+  },
+  "163": {
+    "analog": [
+      2.3
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:54.986527",
+    "End Timing": "10:12:54.986527"
+  },
+  "256": {
+    "analog": [
+      3.2
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:10.149493",
+    "End Timing": "10:13:10.149493"
+  },
+  "507": {
+    "analog": [
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:16.122465",
+    "End Timing": "10:14:16.937876"
+  },
+  "385": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:42.437915",
+    "End Timing": "10:13:42.437915"
+  },
+  "0": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:25.852051",
+    "End Timing": "10:12:25.852051"
+  },
+  "54": {
+    "analog": [
+      1.74,
+      1.66
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:38.860641",
+    "End Timing": "10:12:38.926112"
+  },
+  "103": {
+    "analog": [
+      2.36
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:46.172255",
+    "End Timing": "10:12:46.172255"
+  },
+  "262": {
+    "analog": [
+      4.73
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:11.243911",
+    "End Timing": "10:13:11.243911"
+  },
+  "171": {
+    "analog": [
+      2.63
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:56.309303",
+    "End Timing": "10:12:56.309303"
+  },
+  "321": {
+    "analog": [
+      2.99
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:24.129063",
+    "End Timing": "10:13:24.129063"
+  },
+  "14": {
+    "analog": [
+      4.43
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:29.653529",
+    "End Timing": "10:12:29.653529"
+  },
+  "51": {
+    "analog": [
+      5.19
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:38.620177",
+    "End Timing": "10:12:38.620177"
+  },
+  "561": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:39.412537",
+    "End Timing": "10:14:39.412537"
+  },
+  "288": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:16.196193",
+    "End Timing": "10:13:16.196193"
+  },
+  "481": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:08.209708",
+    "End Timing": "10:14:08.209708"
+  },
+  "333": {
+    "analog": [
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:26.586861",
+    "End Timing": "10:13:27.144413"
+  },
+  "536": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:31.635032",
+    "End Timing": "10:14:31.635032"
+  },
+  "118": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:49.375958",
+    "End Timing": "10:12:49.375958"
+  },
+  "441": {
+    "analog": [
+      4.17,
+      4.38
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:57.671083",
+    "End Timing": "10:13:57.760528"
+  },
+  "464": {
+    "analog": [
+      2.86,
+      2.19
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:01.664352",
+    "End Timing": "10:14:01.742361"
+  },
+  "106": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:46.512593",
+    "End Timing": "10:12:46.512593"
+  },
+  "176": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:56.720045",
+    "End Timing": "10:12:56.720045"
+  },
+  "511": {
+    "analog": [
+      5.17
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:18.769477",
+    "End Timing": "10:14:18.769477"
+  },
+  "543": {
+    "analog": [
+      5.35
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:33.424050",
+    "End Timing": "10:14:33.424050"
+  },
+  "424": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:53.111948",
+    "End Timing": "10:13:53.111948"
+  },
+  "107": {
+    "analog": [
+      2.04
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:46.659384",
+    "End Timing": "10:12:46.659384"
+  },
+  "335": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:27.356654",
+    "End Timing": "10:13:27.557735"
+  },
+  "109": {
+    "analog": [
+      3.38
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:48.154935",
+    "End Timing": "10:12:48.154935"
+  },
+  "15": {
+    "analog": [
+      3.71
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:29.751680",
+    "End Timing": "10:12:29.751680"
+  },
+  "111": {
+    "analog": [
+      5.19
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:48.437929",
+    "End Timing": "10:12:48.437929"
+  },
+  "356": {
+    "analog": [
+      3.71,
+      3.94
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:32.730658",
+    "End Timing": "10:13:32.821378"
+  },
+  "184": {
+    "analog": [
+      5.85
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:58.476251",
+    "End Timing": "10:12:58.476251"
+  },
+  "403": {
+    "analog": [
+      4.34
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:46.059174",
+    "End Timing": "10:13:46.059174"
+  },
+  "351": {
+    "analog": [
+      4.6,
+      4.38
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:31.465444",
+    "End Timing": "10:13:31.563867"
+  },
+  "563": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:39.912476",
+    "End Timing": "10:14:40.341888"
+  },
+  "212": {
+    "analog": [
+      1.66,
+      1.68
+    ],
+    "classify": 1,
+    "Start Timing": "10:13:03.489795",
+    "End Timing": "10:13:03.555286"
+  },
+  "278": {
+    "analog": [
+      8.74
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:13.791493",
+    "End Timing": "10:13:13.791493"
+  },
+  "489": {
+    "analog": [
+      7.36
+    ],
+    "classify": 7,
+    "Start Timing": "10:14:10.430177",
+    "End Timing": "10:14:10.430177"
+  },
+  "193": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:00.262781",
+    "End Timing": "10:13:00.262781"
+  },
+  "402": {
+    "analog": [
+      5.18
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:45.956005",
+    "End Timing": "10:13:45.956005"
+  },
+  "115": {
+    "analog": [
+      3.27
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:48.819006",
+    "End Timing": "10:12:48.819006"
+  },
+  "152": {
+    "analog": [
+      2.99,
+      2.91
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:53.590479",
+    "End Timing": "10:12:53.668535"
+  },
+  "182": {
+    "analog": [
+      2.97
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:58.305042",
+    "End Timing": "10:12:58.305042"
+  },
+  "102": {
+    "analog": [
+      1.98
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:46.103116",
+    "End Timing": "10:12:46.103116"
+  },
+  "123": {
+    "analog": [
+      3.8
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:49.949292",
+    "End Timing": "10:12:49.949292"
+  },
+  "546": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:34.297171",
+    "End Timing": "10:14:34.726758"
+  },
+  "89": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:44.399385",
+    "End Timing": "10:12:44.612364"
+  },
+  "167": {
+    "analog": [
+      7.37
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:55.978091",
+    "End Timing": "10:12:55.978091"
+  },
+  "190": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:59.668526",
+    "End Timing": "10:12:59.668526"
+  },
+  "520": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:22.296160",
+    "End Timing": "10:14:25.699441"
+  },
+  "301": {
+    "analog": [
+      3.67,
+      3.84
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:19.627520",
+    "End Timing": "10:13:19.714336"
+  },
+  "323": {
+    "analog": [
+      6.56
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:24.297551",
+    "End Timing": "10:13:24.297551"
+  },
+  "23": {
+    "analog": [
+      7.41
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:31.173205",
+    "End Timing": "10:12:31.173205"
+  },
+  "434": {
+    "analog": [
+      4.11
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:55.528897",
+    "End Timing": "10:13:55.528897"
+  },
+  "73": {
+    "analog": [
+      3.31
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:41.781860",
+    "End Timing": "10:12:41.781860"
+  },
+  "305": {
+    "analog": [
+      3.52
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:20.344079",
+    "End Timing": "10:13:20.344079"
+  },
+  "255": {
+    "analog": [
+      2.3
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:10.076355",
+    "End Timing": "10:13:10.076355"
+  },
+  "559": {
+    "analog": [
+      2.47,
+      2.34,
+      2.45,
+      2.23,
+      2.04,
+      2.57
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:38.621920",
+    "End Timing": "10:14:38.990011"
+  },
+  "472": {
+    "analog": [
+      0.03,
+      0.03,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:06.084121",
+    "End Timing": "10:14:06.235685"
+  },
+  "537": {
+    "analog": [
+      5.16
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:31.785567",
+    "End Timing": "10:14:31.785567"
+  },
+  "285": {
+    "analog": [
+      9.14
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:15.220238",
+    "End Timing": "10:13:15.220238"
+  },
+  "98": {
+    "analog": [
+      5.97
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:45.705573",
+    "End Timing": "10:12:45.705573"
+  },
+  "97": {
+    "analog": [
+      4.09
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:45.614857",
+    "End Timing": "10:12:45.614857"
+  },
+  "462": {
+    "analog": [
+      2.06
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:01.180843",
+    "End Timing": "10:14:01.180843"
+  },
+  "413": {
+    "analog": [
+      9.22
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:49.893045",
+    "End Timing": "10:13:49.893045"
+  },
+  "225": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:05.284265",
+    "End Timing": "10:13:05.284265"
+  },
+  "283": {
+    "analog": [
+      7.53,
+      7.71
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:14.323980",
+    "End Timing": "10:13:14.450981"
+  },
+  "523": {
+    "analog": [
+      7.72
+    ],
+    "classify": 7,
+    "Start Timing": "10:14:26.768413",
+    "End Timing": "10:14:26.768413"
+  },
+  "91": {
+    "analog": [
+      2.87
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:44.829583",
+    "End Timing": "10:12:44.829583"
+  },
+  "466": {
+    "analog": [
+      2.59
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:02.241572",
+    "End Timing": "10:14:02.241572"
+  },
+  "367": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:36.310393",
+    "End Timing": "10:13:36.310393"
+  },
+  "530": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:29.180399",
+    "End Timing": "10:14:29.180399"
+  },
+  "195": {
+    "analog": [
+      2.49
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:00.500038",
+    "End Timing": "10:13:00.500038"
+  },
+  "315": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:22.388721",
+    "End Timing": "10:13:22.388721"
+  },
+  "551": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:35.639787",
+    "End Timing": "10:14:35.841033"
+  },
+  "141": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:52.296305",
+    "End Timing": "10:12:52.296305"
+  },
+  "320": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:23.977536",
+    "End Timing": "10:13:23.977536"
+  },
+  "253": {
+    "analog": [
+      6.6
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:09.871258",
+    "End Timing": "10:13:09.871258"
+  },
+  "289": {
+    "analog": [
+      7.69,
+      7.97
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:16.346729",
+    "End Timing": "10:13:16.477613"
+  },
+  "465": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:02.090754",
+    "End Timing": "10:14:02.090754"
+  },
+  "36": {
+    "analog": [
+      5.67
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:35.117381",
+    "End Timing": "10:12:35.117381"
+  },
+  "349": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:30.531346",
+    "End Timing": "10:13:31.211423"
+  },
+  "435": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:55.896999",
+    "End Timing": "10:13:55.896999"
+  },
+  "314": {
+    "analog": [
+      7.85
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:21.986561",
+    "End Timing": "10:13:21.986561"
+  },
+  "42": {
+    "analog": [
+      5.39
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:36.379810",
+    "End Timing": "10:12:36.379810"
+  },
+  "154": {
+    "analog": [
+      4.02
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:53.832312",
+    "End Timing": "10:12:53.832312"
+  },
+  "370": {
+    "analog": [
+      8.25
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:37.903359",
+    "End Timing": "10:13:37.903359"
+  },
+  "522": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:26.616596",
+    "End Timing": "10:14:26.616596"
+  },
+  "444": {
+    "analog": [
+      2.28
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:58.371072",
+    "End Timing": "10:13:58.371072"
+  },
+  "105": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:46.335849",
+    "End Timing": "10:12:46.335849"
+  },
+  "394": {
+    "analog": [
+      3.81
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:45.014062",
+    "End Timing": "10:13:45.014062"
+  },
+  "134": {
+    "analog": [
+      3.6
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:51.345869",
+    "End Timing": "10:12:51.345869"
+  },
+  "306": {
+    "analog": [
+      4.16
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:20.431086",
+    "End Timing": "10:13:20.431086"
+  },
+  "145": {
+    "analog": [
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:52.832382",
+    "End Timing": "10:12:52.881485"
+  },
+  "474": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:06.399441",
+    "End Timing": "10:14:07.058435"
+  },
+  "187": {
+    "analog": [
+      3.12
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:59.090477",
+    "End Timing": "10:12:59.090477"
+  },
+  "113": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:48.695255",
+    "End Timing": "10:12:48.695255"
+  },
+  "41": {
+    "analog": [
+      0.02,
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:36.277262",
+    "End Timing": "10:12:36.330508"
+  },
+  "243": {
+    "analog": [
+      6.16
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:08.429009",
+    "End Timing": "10:13:08.429009"
+  },
+  "258": {
+    "analog": [
+      7.32
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:10.354562",
+    "End Timing": "10:13:10.354562"
+  },
+  "363": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:34.442760",
+    "End Timing": "10:13:34.869557"
+  },
+  "447": {
+    "analog": [
+      3.86
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:58.965097",
+    "End Timing": "10:13:58.965097"
+  },
+  "275": {
+    "analog": [
+      9.43
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:13.103626",
+    "End Timing": "10:13:13.103626"
+  },
+  "55": {
+    "analog": [
+      2.47
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:38.996901",
+    "End Timing": "10:12:38.996901"
+  },
+  "545": {
+    "analog": [
+      2.15
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:33.948804",
+    "End Timing": "10:14:33.948804"
+  },
+  "236": {
+    "analog": [
+      4.75
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:06.422034",
+    "End Timing": "10:13:06.422034"
+  },
+  "177": {
+    "analog": [
+      3.54
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:56.773250",
+    "End Timing": "10:12:56.773250"
+  },
+  "146": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:52.943643",
+    "End Timing": "10:12:52.943643"
+  },
+  "194": {
+    "analog": [
+      3.44
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:00.414529",
+    "End Timing": "10:13:00.414529"
+  },
+  "63": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:40.512406",
+    "End Timing": "10:12:40.512406"
+  },
+  "191": {
+    "analog": [
+      2.68
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:59.820276",
+    "End Timing": "10:12:59.820276"
+  },
+  "387": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:42.954539",
+    "End Timing": "10:13:43.379935"
+  },
+  "16": {
+    "analog": [
+      4.22
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:29.838223",
+    "End Timing": "10:12:29.838223"
+  },
+  "383": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:41.942861",
+    "End Timing": "10:13:41.942861"
+  },
+  "352": {
+    "analog": [
+      7.25
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:31.657890",
+    "End Timing": "10:13:31.657890"
+  },
+  "294": {
+    "analog": [
+      7.25
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:18.308708",
+    "End Timing": "10:13:18.308708"
+  },
+  "208": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:02.969827",
+    "End Timing": "10:13:02.969827"
+  },
+  "136": {
+    "analog": [
+      5.37
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:51.546077",
+    "End Timing": "10:12:51.546077"
+  },
+  "534": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:31.097769",
+    "End Timing": "10:14:31.097769"
+  },
+  "303": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:19.918324",
+    "End Timing": "10:13:20.070079"
+  },
+  "514": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:20.107822",
+    "End Timing": "10:14:20.107822"
+  },
+  "245": {
+    "analog": [
+      7.0
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:08.671527",
+    "End Timing": "10:13:08.671527"
+  },
+  "272": {
+    "analog": [
+      2.84
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:12.804442",
+    "End Timing": "10:13:12.804442"
+  },
+  "492": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:11.765126",
+    "End Timing": "10:14:11.765126"
+  },
+  "562": {
+    "analog": [
+      2.34
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:39.564460",
+    "End Timing": "10:14:39.564460"
+  },
+  "7": {
+    "analog": [
+      4.32
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:26.929943",
+    "End Timing": "10:12:26.929943"
+  },
+  "501": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:13.963935",
+    "End Timing": "10:14:13.963935"
+  },
+  "519": {
+    "analog": [
+      2.84
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:21.942995",
+    "End Timing": "10:14:21.942995"
+  },
+  "411": {
+    "analog": [
+      3.14
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:49.708052",
+    "End Timing": "10:13:49.708052"
+  },
+  "348": {
+    "analog": [
+      8.46
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:30.395643",
+    "End Timing": "10:13:30.395643"
+  },
+  "542": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:33.272337",
+    "End Timing": "10:14:33.272337"
+  },
+  "419": {
+    "analog": [
+      3.09
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:51.755935",
+    "End Timing": "10:13:51.755935"
+  },
+  "52": {
+    "analog": [
+      3.76
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:38.721916",
+    "End Timing": "10:12:38.721916"
+  },
+  "330": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:26.206340",
+    "End Timing": "10:13:26.206340"
+  },
+  "149": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:53.254304",
+    "End Timing": "10:12:53.254304"
+  },
+  "358": {
+    "analog": [
+      3.71
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:33.337489",
+    "End Timing": "10:13:33.337489"
+  },
+  "69": {
+    "analog": [
+      3.7
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:41.109386",
+    "End Timing": "10:12:41.109386"
+  },
+  "407": {
+    "analog": [
+      9.57
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:48.180051",
+    "End Timing": "10:13:48.180051"
+  },
+  "399": {
+    "analog": [
+      5.02
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:45.575245",
+    "End Timing": "10:13:45.575245"
+  },
+  "451": {
+    "analog": [
+      3.44
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:59.661571",
+    "End Timing": "10:13:59.661571"
+  },
+  "87": {
+    "analog": [
+      2.03
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:43.998053",
+    "End Timing": "10:12:43.998053"
+  },
+  "229": {
+    "analog": [
+      4.1
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:05.689019",
+    "End Timing": "10:13:05.689019"
+  },
+  "84": {
+    "analog": [
+      7.17
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:43.645811",
+    "End Timing": "10:12:43.645811"
+  },
+  "248": {
+    "analog": [
+      5.25
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:09.343012",
+    "End Timing": "10:13:09.343012"
+  },
+  "415": {
+    "analog": [
+      3.94
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:50.461558",
+    "End Timing": "10:13:50.461558"
+  },
+  "86": {
+    "analog": [
+      4.36
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:43.903705",
+    "End Timing": "10:12:43.903705"
+  },
+  "317": {
+    "analog": [
+      3.29
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:22.621311",
+    "End Timing": "10:13:22.621311"
+  },
+  "217": {
+    "analog": [
+      3.56
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:04.321998",
+    "End Timing": "10:13:04.321998"
+  },
+  "422": {
+    "analog": [
+      7.4
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:52.525981",
+    "End Timing": "10:13:52.525981"
+  },
+  "269": {
+    "analog": [
+      4.51
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:12.168755",
+    "End Timing": "10:13:12.168755"
+  },
+  "17": {
+    "analog": [
+      7.61,
+      7.53
+    ],
+    "classify": 7,
+    "Start Timing": "10:12:29.931482",
+    "End Timing": "10:12:30.058621"
+  },
+  "560": {
+    "analog": [
+      1.9
+    ],
+    "classify": 1,
+    "Start Timing": "10:14:39.064278",
+    "End Timing": "10:14:39.064278"
+  },
+  "499": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:13.435423",
+    "End Timing": "10:14:13.435423"
+  },
+  "235": {
+    "analog": [
+      3.2
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:06.340272",
+    "End Timing": "10:13:06.340272"
+  },
+  "39": {
+    "analog": [
+      6.68
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:35.756613",
+    "End Timing": "10:12:35.756613"
+  },
+  "505": {
+    "analog": [
+      5.36
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:15.118862",
+    "End Timing": "10:14:15.118862"
+  },
+  "220": {
+    "analog": [
+      5.65
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:04.788540",
+    "End Timing": "10:13:04.788540"
+  },
+  "175": {
+    "analog": [
+      5.51
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:56.613044",
+    "End Timing": "10:12:56.613044"
+  },
+  "510": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:18.192046",
+    "End Timing": "10:14:18.617699"
+  },
+  "112": {
+    "analog": [
+      2.87,
+      2.49
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:48.539920",
+    "End Timing": "10:12:48.618287"
+  },
+  "266": {
+    "analog": [
+      7.61,
+      7.63
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:11.727217",
+    "End Timing": "10:13:11.853951"
+  },
+  "496": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:12.797639",
+    "End Timing": "10:14:12.797639"
+  },
+  "198": {
+    "analog": [
+      4.09
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:01.155306",
+    "End Timing": "10:13:01.155306"
+  },
+  "318": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:22.981889",
+    "End Timing": "10:13:23.405022"
+  },
+  "502": {
+    "analog": [
+      5.23
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:14.115633",
+    "End Timing": "10:14:14.115633"
+  },
+  "486": {
+    "analog": [
+      2.82
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:09.807098",
+    "End Timing": "10:14:09.807098"
+  },
+  "416": {
+    "analog": [
+      8.13
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:50.552486",
+    "End Timing": "10:13:50.552486"
+  },
+  "432": {
+    "analog": [
+      3.52
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:55.016062",
+    "End Timing": "10:13:55.016062"
+  },
+  "298": {
+    "analog": [
+      4.51,
+      4.7
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:18.873708",
+    "End Timing": "10:13:18.973066"
+  },
+  "529": {
+    "analog": [
+      4.6
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:28.812347",
+    "End Timing": "10:14:28.812347"
+  },
+  "43": {
+    "analog": [
+      4.15
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:36.485385",
+    "End Timing": "10:12:36.485385"
+  },
+  "254": {
+    "analog": [
+      3.69
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:09.989498",
+    "End Timing": "10:13:09.989498"
+  },
+  "144": {
+    "analog": [
+      5.72
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:52.721591",
+    "End Timing": "10:12:52.721591"
+  },
+  "308": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:20.897859",
+    "End Timing": "10:13:20.897859"
+  },
+  "250": {
+    "analog": [
+      5.02
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:09.531986",
+    "End Timing": "10:13:09.531986"
+  },
+  "437": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:56.114504",
+    "End Timing": "10:13:56.367699"
+  },
+  "22": {
+    "analog": [
+      5.84,
+      5.15
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:30.959711",
+    "End Timing": "10:12:31.066374"
+  },
+  "170": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:56.261305",
+    "End Timing": "10:12:56.261305"
+  },
+  "456": {
+    "analog": [
+      4.07
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:00.480092",
+    "End Timing": "10:14:00.480092"
+  },
+  "131": {
+    "analog": [
+      6.8
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:50.743809",
+    "End Timing": "10:12:50.743809"
+  },
+  "10": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.0
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:27.199725",
+    "End Timing": "10:12:28.957096"
+  },
+  "361": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:33.906770",
+    "End Timing": "10:13:33.906770"
+  },
+  "21": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:30.809346",
+    "End Timing": "10:12:30.809346"
+  },
+  "174": {
+    "analog": [
+      3.4
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:56.531330",
+    "End Timing": "10:12:56.531330"
+  },
+  "445": {
+    "analog": [
+      4.36
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:58.445452",
+    "End Timing": "10:13:58.445452"
+  },
+  "151": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:53.537303",
+    "End Timing": "10:12:53.537303"
+  },
+  "295": {
+    "analog": [
+      8.73
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:18.431955",
+    "End Timing": "10:13:18.431955"
+  },
+  "201": {
+    "analog": [
+      6.68
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:01.774322",
+    "End Timing": "10:13:01.774322"
+  },
+  "360": {
+    "analog": [
+      5.88
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:33.525101",
+    "End Timing": "10:13:33.525101"
+  },
+  "181": {
+    "analog": [
+      3.14
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:58.222973",
+    "End Timing": "10:12:58.222973"
+  },
+  "377": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:40.287728",
+    "End Timing": "10:13:40.287728"
+  },
+  "459": {
+    "analog": [
+      5.27
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:00.898849",
+    "End Timing": "10:14:00.898849"
+  },
+  "401": {
+    "analog": [
+      9.76
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:45.809268",
+    "End Timing": "10:13:45.809268"
+  },
+  "183": {
+    "analog": [
+      3.88
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:58.387030",
+    "End Timing": "10:12:58.387030"
+  },
+  "408": {
+    "analog": [
+      4.28
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:48.328049",
+    "End Timing": "10:13:48.328049"
+  },
+  "386": {
+    "analog": [
+      3.92
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:42.589971",
+    "End Timing": "10:13:42.589971"
+  },
+  "448": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:59.329770",
+    "End Timing": "10:13:59.329770"
+  },
+  "512": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:19.150134",
+    "End Timing": "10:14:19.575731"
+  },
+  "251": {
+    "analog": [
+      6.04
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:09.633780",
+    "End Timing": "10:13:09.633780"
+  },
+  "166": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:55.826045",
+    "End Timing": "10:12:55.826045"
+  },
+  "379": {
+    "analog": [
+      4.28
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:40.558824",
+    "End Timing": "10:13:40.558824"
+  },
+  "316": {
+    "analog": [
+      2.99
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:22.540779",
+    "End Timing": "10:13:22.540779"
+  },
+  "446": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:58.813502",
+    "End Timing": "10:13:58.813502"
+  },
+  "417": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:50.686808",
+    "End Timing": "10:13:51.502310"
+  },
+  "140": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:52.038129",
+    "End Timing": "10:12:52.038129"
+  },
+  "49": {
+    "analog": [
+      1.51
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:38.377361",
+    "End Timing": "10:12:38.377361"
+  },
+  "350": {
+    "analog": [
+      5.06
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:31.362168",
+    "End Timing": "10:13:31.362168"
+  },
+  "414": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:50.310007",
+    "End Timing": "10:13:50.310007"
+  },
+  "137": {
+    "analog": [
+      2.63,
+      2.3
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:51.653135",
+    "End Timing": "10:12:51.731119"
+  },
+  "286": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:15.638670",
+    "End Timing": "10:13:15.638670"
+  },
+  "96": {
+    "analog": [
+      2.15
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:45.541565",
+    "End Timing": "10:12:45.541565"
+  },
+  "120": {
+    "analog": [
+      2.65
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:49.731274",
+    "End Timing": "10:12:49.731274"
+  },
+  "491": {
+    "analog": [
+      3.42
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:11.408184",
+    "End Timing": "10:14:11.408184"
+  },
+  "343": {
+    "analog": [
+      9.5
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:28.757409",
+    "End Timing": "10:13:28.757409"
+  },
+  "200": {
+    "analog": [
+      4.89
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:01.675088",
+    "End Timing": "10:13:01.675088"
+  },
+  "20": {
+    "analog": [
+      2.66
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:30.705898",
+    "End Timing": "10:12:30.705898"
+  },
+  "9": {
+    "analog": [
+      4.2
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:27.105244",
+    "End Timing": "10:12:27.105244"
+  },
+  "162": {
+    "analog": [
+      1.15
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:54.925791",
+    "End Timing": "10:12:54.925791"
+  },
+  "325": {
+    "analog": [
+      3.6
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:24.837983",
+    "End Timing": "10:13:24.837983"
+  },
+  "127": {
+    "analog": [
+      2.36
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:50.423417",
+    "End Timing": "10:12:50.423417"
+  },
+  "388": {
+    "analog": [
+      7.38
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:43.531792",
+    "End Timing": "10:13:43.531792"
+  },
+  "292": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:18.071484",
+    "End Timing": "10:13:18.071484"
+  },
+  "468": {
+    "analog": [
+      3.46
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:04.015101",
+    "End Timing": "10:14:04.015101"
+  },
+  "430": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:54.787164",
+    "End Timing": "10:13:54.787164"
+  },
+  "362": {
+    "analog": [
+      6.06
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:34.058481",
+    "End Timing": "10:13:34.058481"
+  },
+  "18": {
+    "analog": [
+      4.6
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:30.185601",
+    "End Timing": "10:12:30.185601"
+  },
+  "242": {
+    "analog": [
+      4.16
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:08.335756",
+    "End Timing": "10:13:08.335756"
+  },
+  "26": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:32.204932",
+    "End Timing": "10:12:33.057297"
+  },
+  "213": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:03.621105",
+    "End Timing": "10:13:03.621105"
+  },
+  "506": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:15.500964",
+    "End Timing": "10:14:15.975885"
+  },
+  "420": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:52.112711",
+    "End Timing": "10:13:52.264278"
+  },
+  "541": {
+    "analog": [
+      8.35
+    ],
+    "classify": 8,
+    "Start Timing": "10:14:32.866805",
+    "End Timing": "10:14:32.866805"
+  },
+  "142": {
+    "analog": [
+      2.51,
+      2.87
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:52.447080",
+    "End Timing": "10:12:52.525352"
+  },
+  "353": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:32.055052",
+    "End Timing": "10:13:32.055052"
+  },
+  "381": {
+    "analog": [
+      4.26
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:41.491617",
+    "End Timing": "10:13:41.491617"
+  },
+  "376": {
+    "analog": [
+      6.24
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:39.898109",
+    "End Timing": "10:13:39.898109"
+  },
+  "70": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:41.469880",
+    "End Timing": "10:12:41.469880"
+  },
+  "211": {
+    "analog": [
+      2.34
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:03.416850",
+    "End Timing": "10:13:03.416850"
+  },
+  "281": {
+    "analog": [
+      4.68
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:14.118724",
+    "End Timing": "10:13:14.118724"
+  },
+  "341": {
+    "analog": [
+      4.38
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:28.536363",
+    "End Timing": "10:13:28.536363"
+  },
+  "340": {
+    "analog": [
+      8.08
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:28.405652",
+    "End Timing": "10:13:28.405652"
+  },
+  "373": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:39.193858",
+    "End Timing": "10:13:39.193858"
+  },
+  "552": {
+    "analog": [
+      3.12
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:35.894273",
+    "End Timing": "10:14:35.894273"
+  },
+  "421": {
+    "analog": [
+      5.92
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:52.416450",
+    "End Timing": "10:13:52.416450"
+  },
+  "81": {
+    "analog": [
+      2.4,
+      2.38
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:43.358359",
+    "End Timing": "10:12:43.436564"
+  },
+  "555": {
+    "analog": [
+      2.45
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:37.164284",
+    "End Timing": "10:14:37.164284"
+  },
+  "231": {
+    "analog": [
+      8.86
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:05.897982",
+    "End Timing": "10:13:05.897982"
+  },
+  "532": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:29.725805",
+    "End Timing": "10:14:30.578051"
+  },
+  "443": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:58.219453",
+    "End Timing": "10:13:58.219453"
+  },
+  "155": {
+    "analog": [
+      5.82
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:53.921566",
+    "End Timing": "10:12:53.921566"
+  },
+  "147": {
+    "analog": [
+      2.53
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:53.094317",
+    "End Timing": "10:12:53.094317"
+  },
+  "117": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:49.006411",
+    "End Timing": "10:12:49.006411"
+  },
+  "467": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:02.589787",
+    "End Timing": "10:14:03.864556"
+  },
+  "516": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:20.652711",
+    "End Timing": "10:14:20.652711"
+  },
+  "475": {
+    "analog": [
+      3.69,
+      3.66
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:07.107693",
+    "End Timing": "10:14:07.198441"
+  },
+  "334": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:27.204900",
+    "End Timing": "10:13:27.204900"
+  },
+  "221": {
+    "analog": [
+      2.38
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:04.899288",
+    "End Timing": "10:13:04.899288"
+  },
+  "207": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:02.642876",
+    "End Timing": "10:13:02.642876"
+  },
+  "64": {
+    "analog": [
+      2.64
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:40.662894",
+    "End Timing": "10:12:40.662894"
+  },
+  "47": {
+    "analog": [
+      3.29
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:38.222121",
+    "End Timing": "10:12:38.222121"
+  },
+  "565": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:40.838169",
+    "End Timing": "10:14:41.685727"
+  },
+  "326": {
+    "analog": [
+      6.01
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:24.923584",
+    "End Timing": "10:13:24.923584"
+  },
+  "332": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:26.434949",
+    "End Timing": "10:13:26.434949"
+  },
+  "494": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:12.281575",
+    "End Timing": "10:14:12.281575"
+  },
+  "252": {
+    "analog": [
+      7.63
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:09.744491",
+    "End Timing": "10:13:09.744491"
+  },
+  "410": {
+    "analog": [
+      8.49
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:49.573792",
+    "End Timing": "10:13:49.573792"
+  },
+  "85": {
+    "analog": [
+      8.57
+    ],
+    "classify": 8,
+    "Start Timing": "10:12:43.767836",
+    "End Timing": "10:12:43.767836"
+  },
+  "150": {
+    "analog": [
+      6.26,
+      6.54
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:53.307525",
+    "End Timing": "10:12:53.421821"
+  },
+  "524": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:27.173920",
+    "End Timing": "10:14:27.599554"
+  },
+  "232": {
+    "analog": [
+      4.3
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:06.037087",
+    "End Timing": "10:13:06.037087"
+  },
+  "428": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:54.222231",
+    "End Timing": "10:13:54.222231"
+  },
+  "45": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:36.952612",
+    "End Timing": "10:12:36.952612"
+  },
+  "369": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:37.753079",
+    "End Timing": "10:13:37.753079"
+  },
+  "239": {
+    "analog": [
+      7.72,
+      7.67
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:07.818765",
+    "End Timing": "10:13:07.946768"
+  },
+  "513": {
+    "analog": [
+      5.37
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:19.727287",
+    "End Timing": "10:14:19.727287"
+  },
+  "203": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:01.982828",
+    "End Timing": "10:13:01.982828"
+  },
+  "13": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:29.501560",
+    "End Timing": "10:12:29.501560"
+  },
+  "442": {
+    "analog": [
+      3.69
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:57.854827",
+    "End Timing": "10:13:57.854827"
+  },
+  "391": {
+    "analog": [
+      4.91,
+      4.96,
+      4.18
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:44.183317",
+    "End Timing": "10:13:44.383315"
+  },
+  "539": {
+    "analog": [
+      7.61
+    ],
+    "classify": 7,
+    "Start Timing": "10:14:32.314495",
+    "End Timing": "10:14:32.314495"
+  },
+  "412": {
+    "analog": [
+      4.79
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:49.793787",
+    "End Timing": "10:13:49.793787"
+  },
+  "279": {
+    "analog": [
+      5.29
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:13.929733",
+    "End Timing": "10:13:13.929733"
+  },
+  "490": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:10.831118",
+    "End Timing": "10:14:11.256604"
+  },
+  "384": {
+    "analog": [
+      2.23
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:42.094733",
+    "End Timing": "10:13:42.094733"
+  },
+  "240": {
+    "analog": [
+      4.55
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:08.073763",
+    "End Timing": "10:13:08.073763"
+  },
+  "74": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:42.142598",
+    "End Timing": "10:12:42.142598"
+  },
+  "500": {
+    "analog": [
+      4.95
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:13.587328",
+    "End Timing": "10:14:13.587328"
+  },
+  "471": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:05.338286",
+    "End Timing": "10:14:05.932232"
+  },
+  "268": {
+    "analog": [
+      3.52
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:12.079399",
+    "End Timing": "10:13:12.079399"
+  },
+  "482": {
+    "analog": [
+      4.36
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:08.361621",
+    "End Timing": "10:14:08.361621"
+  },
+  "28": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:33.569647",
+    "End Timing": "10:12:33.569647"
+  },
+  "556": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:37.512517",
+    "End Timing": "10:14:37.512517"
+  },
+  "214": {
+    "analog": [
+      2.3
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:03.674288",
+    "End Timing": "10:13:03.674288"
+  },
+  "3": {
+    "analog": [
+      3.8
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:26.425984",
+    "End Timing": "10:12:26.425984"
+  },
+  "178": {
+    "analog": [
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:56.858821",
+    "End Timing": "10:12:57.923620"
+  },
+  "237": {
+    "analog": [
+      6.66,
+      6.05
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:06.520507",
+    "End Timing": "10:13:06.639776"
+  },
+  "400": {
+    "analog": [
+      7.74
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:45.678352",
+    "End Timing": "10:13:45.678352"
+  },
+  "309": {
+    "analog": [
+      5.01,
+      5.48
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:21.049388",
+    "End Timing": "10:13:21.151081"
+  },
+  "215": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:04.022540",
+    "End Timing": "10:13:04.022540"
+  },
+  "227": {
+    "analog": [
+      3.31
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:05.529285",
+    "End Timing": "10:13:05.529285"
+  },
+  "90": {
+    "analog": [
+      1.54
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:44.762872",
+    "End Timing": "10:12:44.762872"
+  },
+  "158": {
+    "analog": [
+      1.94
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:54.228558",
+    "End Timing": "10:12:54.228558"
+  },
+  "431": {
+    "analog": [
+      2.65
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:54.938964",
+    "End Timing": "10:13:54.938964"
+  },
+  "233": {
+    "analog": [
+      2.23
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:06.131282",
+    "End Timing": "10:13:06.131282"
+  },
+  "132": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:50.862192",
+    "End Timing": "10:12:50.862192"
+  },
+  "525": {
+    "analog": [
+      6.6
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:27.751306",
+    "End Timing": "10:14:27.751306"
+  },
+  "186": {
+    "analog": [
+      2.69
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:59.013526",
+    "End Timing": "10:12:59.013526"
+  },
+  "5": {
+    "analog": [
+      2.59,
+      2.19
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:26.609974",
+    "End Timing": "10:12:26.688197"
+  },
+  "557": {
+    "analog": [
+      5.59
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:37.664031",
+    "End Timing": "10:14:37.664031"
+  },
+  "538": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:32.162704",
+    "End Timing": "10:14:32.162704"
+  },
+  "199": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:01.524588",
+    "End Timing": "10:13:01.524588"
+  },
+  "488": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:10.278302",
+    "End Timing": "10:14:10.278302"
+  },
+  "293": {
+    "analog": [
+      3.58
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:18.223207",
+    "End Timing": "10:13:18.223207"
+  },
+  "476": {
+    "analog": [
+      6.08
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:07.283953",
+    "End Timing": "10:14:07.283953"
+  },
+  "405": {
+    "analog": [
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:46.263250",
+    "End Timing": "10:13:47.279804"
+  },
+  "426": {
+    "analog": [
+      7.76
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:53.738492",
+    "End Timing": "10:13:53.738492"
+  },
+  "531": {
+    "analog": [
+      6.96
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:29.332514",
+    "End Timing": "10:14:29.332514"
+  },
+  "429": {
+    "analog": [
+      9.36
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:54.373972",
+    "End Timing": "10:13:54.373972"
+  },
+  "307": {
+    "analog": [
+      6.98
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:20.524558",
+    "End Timing": "10:13:20.524558"
+  },
+  "515": {
+    "analog": [
+      7.13
+    ],
+    "classify": 7,
+    "Start Timing": "10:14:20.259739",
+    "End Timing": "10:14:20.259739"
+  },
+  "342": {
+    "analog": [
+      7.4
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:28.630419",
+    "End Timing": "10:13:28.630419"
+  },
+  "169": {
+    "analog": [
+      1.86
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:56.190533",
+    "End Timing": "10:12:56.190533"
+  },
+  "270": {
+    "analog": [
+      6.48
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:12.262996",
+    "End Timing": "10:13:12.262996"
+  },
+  "114": {
+    "analog": [
+      2.29
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:48.744479",
+    "End Timing": "10:12:48.744479"
+  },
+  "284": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:14.855625",
+    "End Timing": "10:13:15.068503"
+  },
+  "153": {
+    "analog": [
+      3.03
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:53.750565",
+    "End Timing": "10:12:53.750565"
+  },
+  "344": {
+    "analog": [
+      5.35
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:28.900397",
+    "End Timing": "10:13:28.900397"
+  },
+  "470": {
+    "analog": [
+      6.07
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:04.953644",
+    "End Timing": "10:14:04.953644"
+  },
+  "6": {
+    "analog": [
+      3.27,
+      3.71
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:26.757439",
+    "End Timing": "10:12:26.843191"
+  },
+  "406": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:47.603026",
+    "End Timing": "10:13:48.029585"
+  },
+  "68": {
+    "analog": [
+      5.97
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:40.998848",
+    "End Timing": "10:12:40.998848"
+  },
+  "517": {
+    "analog": [
+      3.9
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:20.804500",
+    "End Timing": "10:14:20.804500"
+  },
+  "72": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:41.732626",
+    "End Timing": "10:12:41.732626"
+  },
+  "261": {
+    "analog": [
+      7.31,
+      7.02
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:10.997508",
+    "End Timing": "10:13:11.120464"
+  },
+  "554": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:37.012746",
+    "End Timing": "10:14:37.012746"
+  },
+  "304": {
+    "analog": [
+      7.17
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:20.222255",
+    "End Timing": "10:13:20.222255"
+  },
+  "478": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:07.505597",
+    "End Timing": "10:14:07.505597"
+  },
+  "206": {
+    "analog": [
+      3.44
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:02.555780",
+    "End Timing": "10:13:02.555780"
+  },
+  "238": {
+    "analog": [
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:06.750477",
+    "End Timing": "10:13:07.765520"
+  },
+  "566": {
+    "analog": [
+      0.02,
+      0.03,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.0,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:41.837518",
+    "End Timing": "10:14:43.667734"
+  },
+  "121": {
+    "analog": [
+      3.7
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:49.809264",
+    "End Timing": "10:12:49.809264"
+  },
+  "143": {
+    "analog": [
+      6.8
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:52.603313",
+    "End Timing": "10:12:52.603313"
+  },
+  "230": {
+    "analog": [
+      6.56
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:05.779524",
+    "End Timing": "10:13:05.779524"
+  },
+  "463": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:01.512843",
+    "End Timing": "10:14:01.512843"
+  },
+  "95": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:45.492359",
+    "End Timing": "10:12:45.492359"
+  },
+  "380": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:40.914635",
+    "End Timing": "10:13:41.340023"
+  },
+  "338": {
+    "analog": [
+      6.74
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:27.860901",
+    "End Timing": "10:13:27.860901"
+  },
+  "564": {
+    "analog": [
+      2.02
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:40.489893",
+    "End Timing": "10:14:40.489893"
+  },
+  "34": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:34.969904",
+    "End Timing": "10:12:34.969904"
+  },
+  "503": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:14.218616",
+    "End Timing": "10:14:14.218616"
+  },
+  "180": {
+    "analog": [
+      6.33
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:58.108533",
+    "End Timing": "10:12:58.108533"
+  },
+  "544": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:33.797268",
+    "End Timing": "10:14:33.797268"
+  },
+  "130": {
+    "analog": [
+      4.36
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:50.649273",
+    "End Timing": "10:12:50.649273"
+  },
+  "484": {
+    "analog": [
+      2.34
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:09.302938",
+    "End Timing": "10:14:09.302938"
+  },
+  "148": {
+    "analog": [
+      3.31
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:53.172506",
+    "End Timing": "10:12:53.172506"
+  },
+  "44": {
+    "analog": [
+      5.57
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:36.579639",
+    "End Timing": "10:12:36.579639"
+  },
+  "164": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:55.334848",
+    "End Timing": "10:12:55.334848"
+  },
+  "202": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:01.892404",
+    "End Timing": "10:13:01.892404"
+  },
+  "19": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:30.555177",
+    "End Timing": "10:12:30.555177"
+  },
+  "93": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:45.275853",
+    "End Timing": "10:12:45.275853"
+  },
+  "535": {
+    "analog": [
+      6.39
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:31.249317",
+    "End Timing": "10:14:31.249317"
+  },
+  "188": {
+    "analog": [
+      4.44
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:59.173478",
+    "End Timing": "10:12:59.173478"
+  },
+  "192": {
+    "analog": [
+      3.76
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:59.898522",
+    "End Timing": "10:12:59.898522"
+  },
+  "263": {
+    "analog": [
+      3.92,
+      3.25
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:11.341950",
+    "End Timing": "10:13:11.431519"
+  },
+  "223": {
+    "analog": [
+      4.08
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:05.059034",
+    "End Timing": "10:13:05.059034"
+  },
+  "135": {
+    "analog": [
+      6.35
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:51.431644",
+    "End Timing": "10:12:51.431644"
+  },
+  "526": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:28.144461",
+    "End Timing": "10:14:28.144461"
+  },
+  "418": {
+    "analog": [
+      5.23
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:51.654215",
+    "End Timing": "10:13:51.654215"
+  },
+  "409": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:48.692491",
+    "End Timing": "10:13:49.421551"
+  },
+  "287": {
+    "analog": [
+      8.31
+    ],
+    "classify": 8,
+    "Start Timing": "10:13:15.790384",
+    "End Timing": "10:13:15.790384"
+  },
+  "480": {
+    "analog": [
+      4.66,
+      4.4
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:07.743198",
+    "End Timing": "10:14:07.841437"
+  },
+  "249": {
+    "analog": [
+      3.29
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:09.450040",
+    "End Timing": "10:13:09.450040"
+  },
+  "450": {
+    "analog": [
+      5.29
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:59.559729",
+    "End Timing": "10:13:59.559729"
+  },
+  "438": {
+    "analog": [
+      1.48
+    ],
+    "classify": 1,
+    "Start Timing": "10:13:56.417003",
+    "End Timing": "10:13:56.417003"
+  },
+  "264": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:11.517372",
+    "End Timing": "10:13:11.517372"
+  },
+  "425": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:53.436139",
+    "End Timing": "10:13:53.587898"
+  },
+  "366": {
+    "analog": [
+      3.76
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:35.958576",
+    "End Timing": "10:13:35.958576"
+  },
+  "452": {
+    "analog": [
+      4.26
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:59.747319",
+    "End Timing": "10:13:59.747319"
+  },
+  "267": {
+    "analog": [
+      4.85
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:11.980949",
+    "End Timing": "10:13:11.980949"
+  },
+  "25": {
+    "analog": [
+      5.19,
+      5.17
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:31.721969",
+    "End Timing": "10:12:31.823958"
+  },
+  "322": {
+    "analog": [
+      3.73
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:24.210805",
+    "End Timing": "10:13:24.210805"
+  },
+  "365": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:35.381106",
+    "End Timing": "10:13:35.806783"
+  },
+  "382": {
+    "analog": [
+      3.29
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:41.586277",
+    "End Timing": "10:13:41.586277"
+  },
+  "156": {
+    "analog": [
+      6.18
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:54.032296",
+    "End Timing": "10:12:54.032296"
+  },
+  "297": {
+    "analog": [
+      9.89
+    ],
+    "classify": 9,
+    "Start Timing": "10:13:18.727183",
+    "End Timing": "10:13:18.727183"
+  },
+  "196": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:00.851832",
+    "End Timing": "10:13:00.851832"
+  },
+  "300": {
+    "analog": [
+      7.95
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:19.496588",
+    "End Timing": "10:13:19.496588"
+  },
+  "439": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:56.482581",
+    "End Timing": "10:13:57.195075"
+  },
+  "173": {
+    "analog": [
+      2.17
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:56.456973",
+    "End Timing": "10:12:56.456973"
+  },
+  "53": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:38.807335",
+    "End Timing": "10:12:38.807335"
+  },
+  "31": {
+    "analog": [
+      6.82
+    ],
+    "classify": 6,
+    "Start Timing": "10:12:33.904945",
+    "End Timing": "10:12:33.904945"
+  },
+  "497": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:12.949159",
+    "End Timing": "10:14:12.949159"
+  },
+  "58": {
+    "analog": [
+      1.39
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:39.544642",
+    "End Timing": "10:12:39.544642"
+  },
+  "454": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:00.218904",
+    "End Timing": "10:14:00.218904"
+  },
+  "101": {
+    "analog": [
+      2.59
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:46.025140",
+    "End Timing": "10:12:46.025140"
+  },
+  "553": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:14:35.976312",
+    "End Timing": "10:14:36.684272"
+  },
+  "504": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:14.541792",
+    "End Timing": "10:14:14.968390"
+  },
+  "40": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:35.879921",
+    "End Timing": "10:12:36.129312"
+  },
+  "218": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:04.505418",
+    "End Timing": "10:13:04.505418"
+  },
+  "4": {
+    "analog": [
+      4.24
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:26.516119",
+    "End Timing": "10:12:26.516119"
+  },
+  "533": {
+    "analog": [
+      4.11
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:30.729592",
+    "End Timing": "10:14:30.729592"
+  },
+  "393": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:44.863504",
+    "End Timing": "10:13:44.863504"
+  },
+  "197": {
+    "analog": [
+      0.02,
+      0.03,
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:01.003747",
+    "End Timing": "10:13:01.102125"
+  },
+  "550": {
+    "analog": [
+      5.19
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:35.538243",
+    "End Timing": "10:14:35.538243"
+  },
+  "479": {
+    "analog": [
+      3.5
+    ],
+    "classify": 3,
+    "Start Timing": "10:14:07.656191",
+    "End Timing": "10:14:07.656191"
+  },
+  "77": {
+    "analog": [
+      2.74,
+      2.51
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:42.661895",
+    "End Timing": "10:12:42.739823"
+  },
+  "82": {
+    "analog": [
+      3.42
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:43.510043",
+    "End Timing": "10:12:43.510043"
+  },
+  "277": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:13.639911",
+    "End Timing": "10:13:13.639911"
+  },
+  "336": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:27.610923",
+    "End Timing": "10:13:27.610923"
+  },
+  "433": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:55.376789",
+    "End Timing": "10:13:55.376789"
+  },
+  "390": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:44.031660",
+    "End Timing": "10:13:44.031660"
+  },
+  "528": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:28.660770",
+    "End Timing": "10:14:28.660770"
+  },
+  "246": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:09.068283",
+    "End Timing": "10:13:09.068283"
+  },
+  "257": {
+    "analog": [
+      6.92
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:10.235264",
+    "End Timing": "10:13:10.235264"
+  },
+  "100": {
+    "analog": [
+      4.47
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:45.930880",
+    "End Timing": "10:12:45.930880"
+  },
+  "116": {
+    "analog": [
+      5.31
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:48.904759",
+    "End Timing": "10:12:48.904759"
+  },
+  "159": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:54.299271",
+    "End Timing": "10:12:54.299271"
+  },
+  "296": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:18.575421",
+    "End Timing": "10:13:18.575421"
+  },
+  "273": {
+    "analog": [
+      4.53
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:12.886234",
+    "End Timing": "10:13:12.886234"
+  },
+  "423": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:52.657770",
+    "End Timing": "10:13:52.959995"
+  },
+  "48": {
+    "analog": [
+      2.07
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:38.304126",
+    "End Timing": "10:12:38.304126"
+  },
+  "276": {
+    "analog": [
+      6.85
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:13.246502",
+    "End Timing": "10:13:13.246502"
+  },
+  "473": {
+    "analog": [
+      5.89
+    ],
+    "classify": 5,
+    "Start Timing": "10:14:06.288947",
+    "End Timing": "10:14:06.288947"
+  },
+  "46": {
+    "analog": [
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:37.104624",
+    "End Timing": "10:12:38.172810"
+  },
+  "302": {
+    "analog": [
+      6.1
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:19.803829",
+    "End Timing": "10:13:19.803829"
+  },
+  "108": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:46.733879",
+    "End Timing": "10:12:48.105640"
+  },
+  "216": {
+    "analog": [
+      2.49,
+      2.34
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:04.174336",
+    "End Timing": "10:13:04.247586"
+  },
+  "327": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:25.038188",
+    "End Timing": "10:13:25.464923"
+  },
+  "375": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:39.747813",
+    "End Timing": "10:13:39.747813"
+  },
+  "518": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:20.940538",
+    "End Timing": "10:14:21.791461"
+  },
+  "498": {
+    "analog": [
+      6.91
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:13.038522",
+    "End Timing": "10:14:13.038522"
+  },
+  "75": {
+    "analog": [
+      9.95
+    ],
+    "classify": 9,
+    "Start Timing": "10:12:42.297119",
+    "End Timing": "10:12:42.297119"
+  },
+  "427": {
+    "analog": [
+      2.78
+    ],
+    "classify": 2,
+    "Start Timing": "10:13:53.869255",
+    "End Timing": "10:13:53.869255"
+  },
+  "290": {
+    "analog": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.03,
+      0.02,
+      0.02,
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:13:16.605627",
+    "End Timing": "10:13:17.621217"
+  },
+  "129": {
+    "analog": [
+      3.34
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:50.567481",
+    "End Timing": "10:12:50.567481"
+  },
+  "119": {
+    "analog": [
+      5.14,
+      5.11
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:49.526520",
+    "End Timing": "10:12:49.629520"
+  },
+  "392": {
+    "analog": [
+      6.26
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:44.473813",
+    "End Timing": "10:13:44.473813"
+  },
+  "347": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:30.243911",
+    "End Timing": "10:13:30.243911"
+  },
+  "280": {
+    "analog": [
+      3.44
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:14.032987",
+    "End Timing": "10:13:14.032987"
+  },
+  "359": {
+    "analog": [
+      4.75
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:33.422871",
+    "End Timing": "10:13:33.422871"
+  },
+  "209": {
+    "analog": [
+      5.57,
+      5.02
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:03.121640",
+    "End Timing": "10:13:03.228381"
+  },
+  "378": {
+    "analog": [
+      6.94
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:40.439440",
+    "End Timing": "10:13:40.439440"
+  },
+  "458": {
+    "analog": [
+      4.45
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:00.800601",
+    "End Timing": "10:14:00.800601"
+  },
+  "357": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:33.185661",
+    "End Timing": "10:13:33.185661"
+  },
+  "59": {
+    "analog": [
+      0.02
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:39.610416",
+    "End Timing": "10:12:39.610416"
+  },
+  "274": {
+    "analog": [
+      6.77
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:12.984242",
+    "End Timing": "10:13:12.984242"
+  },
+  "185": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:58.861830",
+    "End Timing": "10:12:58.861830"
+  },
+  "94": {
+    "analog": [
+      1.35
+    ],
+    "classify": 1,
+    "Start Timing": "10:12:45.426598",
+    "End Timing": "10:12:45.426598"
+  },
+  "35": {
+    "analog": [
+      4.69
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:35.018961",
+    "End Timing": "10:12:35.018961"
+  },
+  "355": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:32.579107",
+    "End Timing": "10:13:32.579107"
+  },
+  "364": {
+    "analog": [
+      4.07
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:35.020135",
+    "End Timing": "10:13:35.020135"
+  },
+  "168": {
+    "analog": [
+      3.61
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:56.105036",
+    "End Timing": "10:12:56.105036"
+  },
+  "457": {
+    "analog": [
+      2.34,
+      2.59,
+      2.82
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:00.571041",
+    "End Timing": "10:14:00.722540"
+  },
+  "337": {
+    "analog": [
+      4.57
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:27.762858",
+    "End Timing": "10:13:27.762858"
+  },
+  "324": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:24.686054",
+    "End Timing": "10:13:24.686054"
+  },
+  "460": {
+    "analog": [
+      4.41
+    ],
+    "classify": 4,
+    "Start Timing": "10:14:01.000824",
+    "End Timing": "10:14:01.000824"
+  },
+  "395": {
+    "analog": [
+      7.12
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:45.104812",
+    "End Timing": "10:13:45.104812"
+  },
+  "354": {
+    "analog": [
+      4.55
+    ],
+    "classify": 4,
+    "Start Timing": "10:13:32.207066",
+    "End Timing": "10:13:32.207066"
+  },
+  "397": {
+    "analog": [
+      7.45
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:45.362559",
+    "End Timing": "10:13:45.362559"
+  },
+  "310": {
+    "analog": [
+      7.74
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:21.254092",
+    "End Timing": "10:13:21.254092"
+  },
+  "311": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:21.660037",
+    "End Timing": "10:13:21.660037"
+  },
+  "30": {
+    "analog": [
+      4.89
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:33.802959",
+    "End Timing": "10:12:33.802959"
+  },
+  "160": {
+    "analog": [
+      2.05,
+      2.97
+    ],
+    "classify": 2,
+    "Start Timing": "10:12:54.352532",
+    "End Timing": "10:12:54.421818"
+  },
+  "547": {
+    "analog": [
+      2.49,
+      2.63
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:34.874548",
+    "End Timing": "10:14:34.951537"
+  },
+  "50": {
+    "analog": [
+      3.48,
+      3.82
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:38.442880",
+    "End Timing": "10:12:38.529696"
+  },
+  "124": {
+    "analog": [
+      0.03
+    ],
+    "classify": 0,
+    "Start Timing": "10:12:50.034780",
+    "End Timing": "10:12:50.034780"
+  },
+  "71": {
+    "analog": [
+      5.8
+    ],
+    "classify": 5,
+    "Start Timing": "10:12:41.621864",
+    "End Timing": "10:12:41.621864"
+  },
+  "509": {
+    "analog": [
+      2.51
+    ],
+    "classify": 2,
+    "Start Timing": "10:14:17.838633",
+    "End Timing": "10:14:17.838633"
+  },
+  "299": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:19.344952",
+    "End Timing": "10:13:19.344952"
+  },
+  "61": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:40.036380",
+    "End Timing": "10:12:40.036380"
+  },
+  "265": {
+    "analog": [
+      6.42
+    ],
+    "classify": 6,
+    "Start Timing": "10:13:11.607701",
+    "End Timing": "10:13:11.607701"
+  },
+  "92": {
+    "analog": [
+      4.3
+    ],
+    "classify": 4,
+    "Start Timing": "10:12:44.906274",
+    "End Timing": "10:12:44.906274"
+  },
+  "244": {
+    "analog": [
+      7.65
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:08.544982",
+    "End Timing": "10:13:08.544982"
+  },
+  "8": {
+    "analog": [
+      3.1
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:27.023416",
+    "End Timing": "10:12:27.023416"
+  },
+  "138": {
+    "analog": [
+      3.01
+    ],
+    "classify": 3,
+    "Start Timing": "10:12:51.804086",
+    "End Timing": "10:12:51.804086"
+  },
+  "24": {
+    "analog": [
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:12:31.570173",
+    "End Timing": "10:12:31.570173"
+  },
+  "469": {
+    "analog": [
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:14:04.375868",
+    "End Timing": "10:14:04.801780"
+  },
+  "329": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:25.738294",
+    "End Timing": "10:13:26.054444"
+  },
+  "371": {
+    "analog": [
+      10.0,
+      10.0,
+      10.0
+    ],
+    "classify": 10,
+    "Start Timing": "10:13:38.039106",
+    "End Timing": "10:13:38.620560"
+  },
+  "328": {
+    "analog": [
+      7.35
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:25.616714",
+    "End Timing": "10:13:25.616714"
+  },
+  "346": {
+    "analog": [
+      5.95
+    ],
+    "classify": 5,
+    "Start Timing": "10:13:29.859662",
+    "End Timing": "10:13:29.859662"
+  },
+  "487": {
+    "analog": [
+      6.54
+    ],
+    "classify": 6,
+    "Start Timing": "10:14:09.888925",
+    "End Timing": "10:14:09.888925"
+  },
+  "398": {
+    "analog": [
+      3.92
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:45.485587",
+    "End Timing": "10:13:45.485587"
+  },
+  "291": {
+    "analog": [
+      7.02
+    ],
+    "classify": 7,
+    "Start Timing": "10:13:17.674454",
+    "End Timing": "10:13:17.674454"
+  },
+  "179": {
+    "analog": [
+      8.01
+    ],
+    "classify": 8,
+    "Start Timing": "10:12:57.976754",
+    "End Timing": "10:12:57.976754"
+  },
+  "222": {
+    "analog": [
+      3.78
+    ],
+    "classify": 3,
+    "Start Timing": "10:13:04.972287",
+    "End Timing": "10:13:04.972287"
+  }
+}
